@@ -23,7 +23,7 @@ python epub_language_brightness.py "输入文件.epub"
 指定输出文件和明暗程度：
 
 ```powershell
-python epub_language_brightness.py "输入文件.epub" `
+python "epub_language_brightness.py" "输入文件.epub" `
   --japanese-opacity 1 `
   --chinese-opacity 0.4 `
   -o "输出文件.epub"
