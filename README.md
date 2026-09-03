@@ -45,9 +45,8 @@ python epub_language_brightness.py "输入文件.epub" `
 
 这种规则适用于轻小说机翻机器人常见的中日双语排版。不同 EPUB 的排版方式可能不同，建议先用副本测试。
 
-## 项目名称
-
-推荐仓库名称：`epub-japanese-brightness`
+## 使用示例
+![使用示例](使用示例.png)
 
 ## 开源协议
 
